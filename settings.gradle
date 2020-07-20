@@ -1,0 +1,2 @@
+rootProject.name='XUpdate'
+include ':app', ':Update_library'
