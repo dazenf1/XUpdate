@@ -1,6 +1,5 @@
 package cn.dazen.XUpdate;
 
-
 import android.app.Activity;
 import android.os.Bundle;
 
